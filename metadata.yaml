@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3196
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21618#The-Aztec-Treasure-House
 gutenberg_issued: '2007-05-26'
 gutenberg_type: Text
 identifiers:
