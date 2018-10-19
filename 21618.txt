@@ -11,6 +11,7 @@ Title: The Aztec Treasure-House
 Author: Thomas Allibone Janvier
 
 Release Date: May 26, 2007 [EBook #21618]
+Last Updated: September 16, 2016
 
 Language: English
 
@@ -339,8 +340,8 @@ recreate, so far as this was possible, the fabric that was destroyed by
 the Spanish conquerors. Nowhere could my investigations be conducted to
 better advantage than in the State of Michoacan (of which State the city
 of Morelia is the capital) and in the adjacent State of Jalisco; for in
-this region tribes still exist which never have been, reduced to more
-than nominal subjection, and which, maintain to a great extent their
+this region tribes still exist which never have been reduced to more
+than nominal subjection, and which maintain to a great extent their
 primitive customs and their primitive faith, though curiously mingling
 with this latter many Christian observances. Indeed, the independence of
 the Indians of these parts is so notable that the proverb "Free as
@@ -395,7 +396,7 @@ the godly work to which he has given himself that but little remains to
 him to use in other ways. He is a monk, vowed to the Rule of St.
 Francis. As you know, since the promulgation of the Laws of the Reform,
 monks are not permitted in our country to live in communities; but, with
-only a few exceptions, the conventual churches which have not be
+only a few exceptions, the conventual churches which have not been
 secularized still are administered by members of the religious orders to
 which they formerly belonged. Fray Antonio has the charge of the church
 of San Francisco--over by the market-place, you know--and virtually is a
@@ -730,7 +731,7 @@ drifted out into the world to seek his fortune. His capital was the
 ass--so wise an ass that he had named him El Sabio. "He knows each word
 that I speak to him, senor," said Pablo, earnestly. "And when he hears,
 even a long way off, the music that I make upon the little instrument,
-he know that it is from me that the music comes, and calls to me. And he
+he knows that it is from me that the music comes, and calls to me. And he
 loves me, senor, as though he were my brother; and he knows that with
 the same tenderness I also love him. It was the good Padre who gave him
 to me. God rest and bless him always!" This pious wish, I inferred,
@@ -794,7 +795,7 @@ his name is Juan, senor, who has been very good to me many times. He has
 given me things to put into this wretchedly big belly of mine; and when
 I broke one of my jars he lent me the money to buy another with, and
 would take from me again only what the jar cost and no more. Just now
-this old many is sick--it is rheumatism, senor--and he has no money at
+this old man is sick--it is rheumatism, senor--and he has no money at
 all, and he and his wife have not much to eat, and I know what pain that
 is. And so--and so--Will the senor forgive me? I do not need the
 rain-coat now, the senor understands. And so I gave Juan the seven
@@ -966,7 +967,7 @@ still standing by me, he never guessed whose hands in his last moments
 ministered to him.
 
 As I raised his head a little and rested it upon my knee, he spoke
-again, very feebly and brokenly: "On my breast is the bag of akin. In
+again, very feebly and brokenly: "On my breast is the bag of skin. In
 it is the Priest-Captain's token, and the paper that shows the way to
 where the stronghold of our race remains. Only with me abides this
 secret, for I am of the ancient house, as thou art also, whence sprung
@@ -1401,7 +1402,7 @@ English words:
      whereby the way thither was made plain. And so it was that,
      when the sacred fire ceased burning, the priests were alert
      for the threatened danger; and when the landing of the
-     Spaniards--'fair-faced and bearded men, coming for the
+     Spaniards--'fair-faced and bearded men, coming from the
      eastward'--was known to them, they warned their king, Montezuma,
      that the prophecy was fulfilled, and that the time for sending for
      the army and the treasure had come.
@@ -2100,7 +2101,7 @@ fairly burned our skins. What water we got was to be had only by digging
 in the _arroyos_ which traversed the centre of each valley
 longitudinally; and although this water always was muddy, and had a
 strongly alkaline taste, it is the only thing that I remember with
-pleasure in all that weary laud. Of animal life there was nothing to be
+pleasure in all that weary land. Of animal life there was nothing to be
 seen, save a-plenty of rattlesnakes; and a few great buzzards which
 wheeled above us from time to time as though with the intention of
 keeping track of us until we should fall down and die of thirst and
@@ -2566,7 +2567,7 @@ for Pablo's account of it was simply that, just as his revolver was
 emptied upon the Indians charging towards us, when there was no time to
 reload, his eyes were caught by the glitter of the sword as it stuck in
 a cleft in a rock; whereupon he most gladly seized it--and instantly
-used it to good purpose upon the Indian was so close to ending me with
+used it to good purpose upon the Indian who was so close to ending me with
 his spear, and subsequently contrived with it to send two more Indians
 to their account.
 
@@ -2724,7 +2725,7 @@ IX.
 THE CAVE OF THE DEAD.
 
 
-Very dismal was our procession of faintly see figures moving cautiously
+Very dismal was our procession of faintly seen figures moving cautiously
 through that wild solitude. At its head went Rayburn, leading his horse,
 on which was Dennis's dead body; all of us, being bruised and cut and
 bleeding, walked slowly and painfully; and behind us, ghastly forms torn
@@ -2883,7 +2884,7 @@ life to come; and then a prayer ended all, and we filled in the grave.
 "I'm Congregational, myself," Young said, when our work was finished;
 "at least I was brought up that way; an' I'm down on th' Scarlet Woman
 from first t' last. But I go in for lettin' folks believe what they've
-got a mind to; an' when it cornea t' buryin' 'em it's only square t'
+got a mind to; an' when it comes t' buryin' 'em it's only square t'
 give 'em th' sort of send-off that they'd really like. For a Catholic, I
 guess Dennis was a pretty good one; an' I must say I think it would 'a'
 done him good to see th' way we've given him a first-class funeral, just
@@ -3318,7 +3319,7 @@ Standing hidden behind a rock, Rayburn examined the valley carefully
 through a field-glass for a long while.
 
 "I must say this place beats me," he said at last, as he put the glass
-down from his eyes. "There's no doubt about there being a down down
+down from his eyes. "There's no doubt about there being a town down
 there; but I can't make out a sign of a single living thing. And what
 is still queerer, the houses seem to go right down into the lake. If
 you'll take the glass, Professor, you'll see that a few of them, on this
@@ -3914,7 +3915,7 @@ this chamber a spiral stair-way ascended that was dimly lighted by
 crevices cut from it out to the face of the cliff. With Young leading
 us, up this we went; at first rapidly, but, later, slowly and wearily,
 for it seemed as though the stair would never end. Yet though our bodies
-were heavy our spirits were very light; for we know by the wearisome
+were heavy our spirits were very light; for we knew by the wearisome
 length of it that the stair must lead to the very top of the towering
 cliffs by which we had believed ourselves to be irrevocably shut in. And
 at last there was a gleaming of light above us; and this grew stronger
@@ -4799,7 +4800,7 @@ King's symbol an' th' arrow, all reg'lar, blazed on th' rock."
 "Is the trail good enough to make a start on now?" Rayburn asked; "we
 won't have more than half an hour more light, but I'd give a lot to get
 off this mountain before dark, and every foot down that we go we'll be
-that much warmer. We'd stand a pretty fair chance of freeing up here
+that much warmer. We'd stand a pretty fair chance of freezing up here
 to-night without any fire."
 
 "Th' trail's all right for a good half-mile, anyway," Young answered;
@@ -4863,7 +4864,7 @@ sooner we get down there and hunt for him the better."
 
 In the bright light of the early morning we could see below us a glad
 little valley, in which trees and grass grew, and in the centre of which
-was a tiny lake. But what gave as most joy was seeing birds flying over
+was a tiny lake. But what gave us most joy was seeing birds flying over
 the face of the water, and half a dozen mountain sheep scampering away
 at the sound of Rayburn's shot. Truly, the sight of these live creatures
 was the most cheery that ever came to my eyes; and as I beheld them, and
@@ -4914,7 +4915,7 @@ we all were lost in slumber, and walked a little apart from us. He alone
 had made a meal in reasonable moderation, and I saw now that he had gone
 aside to pray. For a moment the thought stirred in me that I would join
 him in what I knew was his thanksgiving for our deliverance; but sleep
-had too strong a hold upon me, and my body slowly fell hack upon the
+had too strong a hold upon me, and my body slowly fell back upon the
 blankets and my eyes slowly closed, carrying into my slumber the sight
 on which they last had rested: the monk kneeling upon the grass beside a
 great gray rock, with clasped hands and face turned upward, pouring his
@@ -5616,7 +5617,7 @@ there was none. Excepting between death and slavery, there was no choice
 for the weak or the malformed.
 
 As time passed on, the Tlahuicos, marrying among themselves, had greatly
-increased in numbers; and so far from remaining a weakling race, the had
+increased in numbers; and so far from remaining a weakling race, they had
 become, by reason of their frugal mode of living and of the wholesome,
 hearty labor in which they constantly were engaged, exceptionally hale
 and strong; the weak and crippled among them being mainly those who each
@@ -6445,7 +6446,7 @@ which covered the walls were wholly of a gloomy sort--being for the most
 part representations of the slaughter of men in sacrifice, and the
 tearing of hearts out--so that the eight of them made me shiver,
 notwithstanding the warmth of the sun. From the centre of the court-yard
-abroad stair-way ascended to the plateau above on which the temple
+a broad stair-way ascended to the plateau above on which the temple
 stood; and this direct way of communicating with it led me to the
 conclusion that the building was a dependency of the temple, and that
 very likely the higher members of the priesthood were housed here.
@@ -7265,7 +7266,7 @@ regular order, was employed in the surface work under the constant
 supervision of a strong guard. Yet even these stern measures were not
 wholly effective in preventing mutiny. Many times great revolts had
 broken out here that had set all the valley in an uproar, and that had
-been crashed only after pitched battles had been fought between the
+been crushed only after pitched battles had been fought between the
 rebels and the entire military force of the state. The town was a
 veritable volcano, Tizoc declared; and because of the dread of it that
 universally obtained, by reason of the frequent outbursts there of
@@ -7427,7 +7428,7 @@ constantly increasing scale from that time onward. All the earth beneath
 where we then were, he said, was honey-combed with passages which
 followed the several veins; and of these there seemed to be no end at
 all, for ever as each vein was exhausted another not less rich was
-found--and thus is seemed as though all the substructure of that great
+found--and thus it seemed as though all the substructure of that great
 mountain range were one huge mass of gold.
 
 What the measures of weight were with which he estimated the annual
@@ -8491,7 +8492,7 @@ perceived while yet it was a long way off.
 We were surprised, therefore, when we had come well out upon the
 promontory, that no sentinel challenged us; but our surprise vanished a
 moment or two later as we perceived one of our men curled up comfortably
-against a sunny rook and apparently sound asleep. However, as we got
+against a sunny rock and apparently sound asleep. However, as we got
 close to the man it was clear to us that his sleep was one that he never
 would waken from, for a pool of blood stained the rock beside him, and
 an arrow was shot fairly through his heart. We made but a short stop
@@ -10652,7 +10653,7 @@ t' know that even if they do finish us we'll everlastin'ly salt 'em
 first with our guns."
 
 We heard another great crash behind us, but faintly now that the sliding
-door was closed, as we went on ward into the treasure-chamber; and here
+door was closed, as we went onward into the treasure-chamber; and here
 we heard the like sound again, more clearly, through the slits cut in
 the wall. As gently as our haste, and the awkwardness of that narrow
 way would permit, we lifted Rayburn from the stretcher, and so carried
@@ -10669,7 +10670,7 @@ crashing blows which every minute or so were delivered against the
 grating, together with a shrill roar of shouts and yells; and we knew
 that before this vigorous assault the grating must give way within a
 very brief period, and so let in the whole yelping pack. If I were right
-in my belief that the Priest Captain alone know of the secret outlet to
+in my belief that the Priest Captain alone knew of the secret outlet to
 the oratory, we still would be safe enough, and could make some
 preliminary examination of the cave before we closed the way behind us
 irrevocably by letting the statue fall back into its place; but if I
